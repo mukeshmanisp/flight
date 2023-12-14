@@ -1,0 +1,23 @@
+.main-body {
+  min-height: 80vh;
+  padding: 15px;
+  text-align: center;
+}
+
+
+.inner-search-form {
+  padding: 10px;
+
+}
+
+
+h3 {
+  color : green
+}/* AirlineSeatsView.css */
+
+/* AirlineSeatsView.css */
+
+.selected-seat {
+  background-color: #4caf50; /* Set the background color for selected seats */
+  color: #fff; /* Set the text color for selected seats */
+}
